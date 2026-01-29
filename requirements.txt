@@ -1,0 +1,14 @@
+--index-url https://mirrors.aliyun.com/pypi/simple/
+
+# 以下是你需要安装的包列表
+dotenv
+mysql-connector-python
+requests
+requests_toolbelt
+mcp
+openai
+schedule
+playwright
+flask
+flask_cors
+
